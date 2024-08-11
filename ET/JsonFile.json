@@ -1,0 +1,20 @@
+{
+  "dictionaryClassRus": [
+    {
+      "Word": "машина",
+      "MeaningOfTheWord": [
+        "car",
+        "track"
+      ]
+    }
+  ],
+  "dictionaryClassEngl": [
+    {
+      "Word": "dictionary",
+      "MeaningOfTheWord": [
+        "словарь",
+        "переводчик"
+      ]
+    }
+  ]
+}
